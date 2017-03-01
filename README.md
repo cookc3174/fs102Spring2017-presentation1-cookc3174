@@ -1,8 +1,7 @@
 # seke2015-panel-presentation
 
-This repository contains the HTML source code and additional resources for a presentation that I, [Gregory M.
-Kapfhammer](http://www.cs.allegheny.edu/sites/gkapfham), gave during a panel at the 27th International Conference on
-Software Engineering and Knowledge Engineering (SEKE 2015). The presentation's source code uses the
+This repository contains the HTML source code and additional resources for a presentation that I, [Christopher Cook](https://cookc3174.github.io), used to practice using atom and learn how to create my own slides.
+
 [reveal.js](https://github.com/hakimel/reveal.js/) framework to control the display of each slide.  I have developed a
 custom theme for the slides that manages the formatting, color scheme, and the use of full-screen photographs on the
 backgrounds.
